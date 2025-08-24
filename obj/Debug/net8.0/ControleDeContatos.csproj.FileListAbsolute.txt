@@ -31,3 +31,4 @@ C:\Users\zodte\OneDrive\Documentos\Stein\Codigos\C#\ControleDeContatos\ControleD
 C:\Users\zodte\OneDrive\Documentos\Stein\Codigos\C#\ControleDeContatos\ControleDeContatos\obj\Debug\net8.0\ControleDeContatos.pdb
 C:\Users\zodte\OneDrive\Documentos\Stein\Codigos\C#\ControleDeContatos\ControleDeContatos\obj\Debug\net8.0\ControleDeContatos.genruntimeconfig.cache
 C:\Users\zodte\OneDrive\Documentos\Stein\Codigos\C#\ControleDeContatos\ControleDeContatos\obj\Debug\net8.0\ref\ControleDeContatos.dll
+C:\Users\zodte\OneDrive\Documentos\Stein\Codigos\C#\ControleDeContatos\ControleDeContatos\obj\Debug\net8.0\ControleDeContatos.sourcelink.json
