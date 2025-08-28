@@ -10,10 +10,35 @@
             <tr>
                 <th scope="col">#</th>
                 <th scope="col">Nome</th>
-                <th scope="col">Numero</th>
-                <th scope="col">Cep</th>
+                <th scope="col">E-mail</th>
+                <th scope="col">Celular</th>
             </tr>
         </thead>
-       
+       <tbody>
+           <tr>
+               <th class="row">1</th>
+               <td> Dados temporario****</td>
+                <td> pedro.brito2@fatec.sp.gov.br</td>
+                <td>(11) 970435694</td>
+                <td>
+                    <div>
+                        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                            <button class="btn btn-primary me-md-2" type="button">Apagar</button>
+                            <button class="btn btn-outline-info" type="button">ADD</button>
+                        </div>"
+                    </div>
+                </td>
+           </tr>
+       </tbody>
     </table>
+    <div class="alert alert-info" role="alert">
+        <strong>Atenção, turma:</strong> Não insira dados manualmente nesta seção. Esta estrutura é apenas um modelo (template). Os dados devem vir da API e ser renderizados dinamicamente pelo front-end.
+        <h5>A Lógica: Onde está o ".map()"?</h5>
+        <p>
+            No JavaScript, usamos <code>array.map()</code> para transformar uma lista de dados em uma lista de elementos HTML. No C# com Razor, o conceito é o mesmo, mas a sintaxe é diferente. A forma mais comum e legível de fazer isso é usando um laço <code>foreach</code>.
+        </p>
+        <p>
+            O fluxo é sempre este: <strong>Controller busca os dados -> Controller envia a lista para a View -> A View faz um loop (o nosso "map") para gerar o HTML.</strong>
+        </p>
+    </div>
 </div>
